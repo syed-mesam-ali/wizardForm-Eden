@@ -25,6 +25,16 @@ span {
 .stepCount.card > form {
   width: 35%;
 }
+@media (max-width: 1100px) {
+  .stepCount.card > div:nth-child(2) {
+    width: 80% !important;
+  }
+}
+@media (max-width: 1100px) {
+  .stepCount.card > form {
+    width: 70%;
+  }
+}
 @media (max-width: 800px) {
   .stepCount.card > div:nth-child(2) {
     width: 100% !important;
