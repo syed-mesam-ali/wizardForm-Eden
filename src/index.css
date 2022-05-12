@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter" !important;
+}
+
+.stepCount.card > div > div > div > div > a,
+span {
+  position: relative;
+  bottom: 2px;
+}
+.stepCount .card {
+  border: none;
+  margin-bottom: 0px !important;
+  /* top: 10px; */
+}
+.stepCount.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.stepCount.card > div:nth-child(2) {
+  width: 35% !important;
+}
+.stepCount.card > form {
+  width: 35%;
+}
+@media (max-width: 800px) {
+  .stepCount.card > div:nth-child(2) {
+    width: 100% !important;
+  }
+}
+@media (max-width: 800px) {
+  .stepCount.card > form {
+    width: 90%;
+  }
+}
+
+.card-input-element {
+  display: none;
+}
+
+.card-input {
+  margin: 0px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.card-input:hover {
+  cursor: pointer;
+}
+
+.card-input-element:checked + .card-input {
+  box-shadow: 0 0 1px 1px #654de4;
+}
+.label-select {
+  border: 1px solid #dfe3ec;
+  border-radius: 5px;
+}
+.panel-heading {
+  font-weight: 600;
+}
+.panel-body {
+  color: rgb(107, 119, 143);
+}
+.card-input-element:checked + .card-input .fa {
+  color: #654de4;
+}
+.panel.panel-default.card-input .fa {
+  margin-bottom: 15px;
+}
+.panel.panel-default.card-input .panel-heading {
+  margin-bottom: 5px;
+}
