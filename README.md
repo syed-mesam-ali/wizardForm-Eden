@@ -1,24 +1,24 @@
-# About the project
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Programming language used ReactJS (JavaScript library for building user interfaces based on UI components.)
-### Other packages intalled - Jquery(For simplified creation and navigation of webpage), Font Awesome (For Icon), Redux-Form, Horizontal Stepper, Core ui, Redux, React Redux
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Wizard Form - Eden
 
-# Description
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### This is a wizard form with steps counter. Fill up some details and proceed.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Description - This is a wizard form with steps counter. Fill up some details and proceed.
+
+## Working App Netlify Link - https://connect-friends-syed.netlify.app/
+
+## Built with 
+
+- ReactJs
+- Jquery
+- Redux
+- Redux-Form
+- Horizontal Stepper
+- Bootstrap
+- react-toastify
+- reactstrap
+- Font Awesome
 
 
-# Additional Feature
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Responsiveness for all screeens.
+## Test
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# Test
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 1. Test With different resoulution.
 ### 2. Proceed without filling mandotory field not allowed.
 ### 3. Optional field not required.
-
