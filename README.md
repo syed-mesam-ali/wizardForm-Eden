@@ -2,7 +2,7 @@
 
 ## Description - This is a wizard form with steps counter. Fill up some details and proceed.
 
-## Working App Netlify Link - https://connect-friends-syed.netlify.app/
+## Working App Netlify Link - https://edenwizform.netlify.app/
 
 ## Built with 
 
